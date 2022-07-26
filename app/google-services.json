@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404960959076",
+    "project_id": "desafio-ae904",
+    "storage_bucket": "desafio-ae904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404960959076:android:3b1f927e9826226d809d71",
+        "android_client_info": {
+          "package_name": "br.com.zup.marvel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404960959076-to5hncj0vpfd9e6ao657sd3srjtldthn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcJQwX2szggdiAyWkpv1Zg96yTmcuu-FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404960959076-to5hncj0vpfd9e6ao657sd3srjtldthn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
